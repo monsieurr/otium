@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),u=n("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"404: Not found"}),l.a.createElement("h1",null,"Rien à voir par ici"),l.a.createElement("p",null,"Cette page n'est pas présente sur Otium"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-ae5692271956a80dc960.js.map
